@@ -104,8 +104,7 @@ fi
 # - $ZSH_CUSTOM/aliases.zsh
 # - $ZSH_CUSTOM/macos.zsh
 # For a full list of active aliases, run `alias`.
-#
-# Example aliases
+
 alias zshconfig="vim ~/.zshrc"
 alias ohmyzsh="vim ~/.oh-my-zsh"
 alias neofetch="neofetch --kitty ~/.config/neofetch/kangel3crop.png"
@@ -114,4 +113,5 @@ alias config='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'
 #
 # Scripts.
 . /opt/asdf-vm/asdf.sh
+
 neofetch
