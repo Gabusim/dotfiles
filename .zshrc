@@ -109,6 +109,7 @@ alias zshconfig="vim ~/.zshrc"
 alias ohmyzsh="vim ~/.oh-my-zsh"
 alias neofetch="neofetch --kitty ~/.config/neofetch/kangel3crop.png"
 alias config='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'
+alias garbro='wine ~/.wine/drive_c/Program\ Files\ \(x86\)/GARbro/GARbro.GUI.exe'
 
 #
 # Scripts.
