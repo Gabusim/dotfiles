@@ -1,0 +1,52 @@
+@define-color main-color #1D2122;
+@define-color main-light-color #504945;
+@define-color dark-color #ebdbb2;
+@define-color light-color #1D2122;
+@define-color red #fb4934;
+@define-color yellow #fabd2f;
+
+
+/*
+$foreground = rgb(ebdbb2)
+$background = rgb(1D2122)
+$url_color = rgb(b8bb26)
+
+# black
+$color0 = rgb(1D2122)
+$color8 = rgb(504945)
+
+# red
+$color1 = rgb(cc241d)
+$color9 = rgb(fb4934)
+
+# green
+$color2 = rgb(98971a)
+$color10 = rgb(b8bb26)
+
+# yellow
+$color3 = rgb(d79921)
+$color11 = rgb(fabd2f)
+
+# blue
+$color4 = rgb(458488)
+$color12 = rgb(83a598)
+
+# purple
+$color5 = rgb(b16286)
+$color13 = rgb(d3869b)
+
+# aqua
+$color6 = rgb(689d6a)
+$color14 = rgb(8ec07c)
+
+# white
+$color7 = rgb(ebdbb2)
+$color15 = rgb(fbf1c7)
+
+
+#-------------tab bar-----------
+$active_tab_foreground   = rgb(ebdbb2)   
+$active_tab_background   = rgb(98971a) 
+$inactive_tab_foreground = rgb(fbf1c7)
+$inactive_tab_background = rgb(3c3836) 
+*/
