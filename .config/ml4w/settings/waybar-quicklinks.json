@@ -1,0 +1,40 @@
+{
+    "custom/quicklink1": {
+        "format": "",
+        "on-click": "~/.config/ml4w/settings/discord.sh",
+        "tooltip-format": "Open Discord"
+    }, 
+    "custom/quicklink2": {
+        "format": " ",
+        "on-click": "~/.config/ml4w/settings/browser.sh",
+        "tooltip-format": "Open the browser"
+    },
+    "custom/quicklink3": {
+        "format": " ",
+        "on-click": "~/.config/ml4w/settings/filemanager.sh",
+        "tooltip-format": "Open the filemanager"
+    },
+    "custom/quicklink4": {
+	"format": "♫",
+	"on-click": "~/.config/ml4w/settings/player.sh",
+	"tooltip-format": "Open the music player"
+    },
+    "custom/quicklink5": {
+    	"format": "",
+	"on-click": "~/.config/ml4w/settings/steam.sh",
+	"tooltop-format": "Open Steam"
+    }, 
+    "custom/quicklinkempty": {
+    }, 
+    "group/quicklinks": {
+        "orientation": "horizontal",
+        "modules": [
+            "custom/quicklink1",
+            "custom/quicklink2",
+            "custom/quicklink3",
+	    "custom/quicklink5",
+	    "custom/quicklink4",
+            "custom/quicklinkempty"
+        ]
+    }
+}
