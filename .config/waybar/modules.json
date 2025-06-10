@@ -79,6 +79,14 @@
     "on-click": "wlogout -b 4",
     "tooltip-format": "Toggle logout menu"
   },
+ 
+/*
+  // VPN status
+  "custom/vpn": {
+    "interval": 3,
+    "format": "{}",
+    "exec": "piactl monitor connectionstate,
+  }, */
 
   // System tray
   "tray": {
